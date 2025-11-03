@@ -1,1 +1,6 @@
 CPRAM.pdf
+.gitignore.save
+.gitignore
+tempCodeRunnerFile.py
+__pycache__
+.git
